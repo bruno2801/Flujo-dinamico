@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Cash Flow Planner",
+  "description": "A personal finance application to dynamically manage and project your cash flow. Add time periods, track incomes, and detail expenses, including recurring transactions and credit card statements, to get a clear overview of your financial health.",
+  "requestFramePermissions": []
+}
